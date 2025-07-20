@@ -40,3 +40,5 @@ Events are saved in LocalStorage and restored on reload.
 ## 📱 Responsive Design
 
 Switches to weekly/list view on small screens (can be extended further).
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/376e5de6-a33b-4f6c-a1b8-ff99b8f9f0f9" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/2ca9e6b5-6c8d-4e17-a245-040781c28a4e" />
